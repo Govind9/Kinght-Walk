@@ -6,4 +6,5 @@ Python3
 
 ## Run
 python main.py starting_position target_position
+
 Example: python main.py a1 e4
